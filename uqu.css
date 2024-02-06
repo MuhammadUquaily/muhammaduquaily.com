@@ -1,0 +1,127 @@
+body {
+  background-color: lightblue;
+  font-family: Helvetica;
+}
+h1 {
+  color: black;
+  background-color: white;
+  text-align: center;
+  font-weight: bold;
+  opacity: 0.75;
+}
+h2 {
+  text-align:center;
+  color:red;
+}
+
+.introduction {
+  font-family: Georgia;
+  background-color: darkgreen;
+  color:white;
+  font-weight:bold;
+  font-size: 19px;
+}
+
+.Goals, .actions {
+  background-color: seagreen;
+  opacity:1;
+  font-weight: 10;
+  color: orange;
+  font-size:22px;
+}
+
+.goals-list {
+  background-image: url(https://miro.medium.com/v2/resize:fit:640/1*oSNweN6BG3503tzoi2aVLg.jpeg);
+  color: gold;
+  font-size: 17px;
+  font-family: Roboto;
+}
+
+ol {
+  background-image: url(https://wallpapers.com/images/hd/soccer-aesthetic-o322zzp49u9v6t2d.jpg);
+  font-family: Lato;
+  color: maroon;
+  font-size: 17px;
+}
+
+td, th {
+  border: 2px dashed ;
+  padding: 2px;
+}
+
+table {
+  text-align: center;
+  margin: 20px auto;
+  background-image: url(https://img.freepik.com/premium-photo/blurred-colorful-wallpaper-background_976742-179.jpg);
+  border: solid red 3px;
+   height: 25px;
+  width:30px;
+  border-radius: 8px;
+}
+
+th {
+  font-weight: bold;
+  font-size:30px;
+  color: seagreen;
+  font-family: Montserrat;
+}
+
+.football {
+  color: darkgreen;
+  font-family: EA Sans;
+}
+
+.rowing {
+  color: blue;
+  font-family: Garamond; 
+}
+
+.boxing {
+  color: red;
+  font-family: Didot;
+}
+
+.coding {
+  font-family: raleway;
+  color: maroon;
+}
+
+.cali{
+    color: purple;
+    font-family: Open Sans;
+}
+
+td {
+  font-family:Nunito Sans;
+  color: darkblue;
+  font-size:25px;
+}
+
+a {
+  font-weight: bold;
+  color: maroon;
+}
+
+.introduction a:hover {
+  color:blue;
+  padding:5px;
+  font-family:raleway;
+  font-size:22px;
+  margin: 2px 4px;
+}
+
+.contents {
+  font-size:16px;
+  font-family: Antically;
+  color:black;
+  background-color: lightblue;
+}
+
+#contents {
+  color: blue;
+  background-color: teal !important;
+}
+ 
+.goals p, .actions p {
+  display:inline;
+}
